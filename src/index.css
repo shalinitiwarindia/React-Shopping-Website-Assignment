@@ -1,0 +1,3 @@
+/* minimal resets; MUI handles most styling */
+* { box-sizing: border-box; }
+img { display: block; max-width: 100%; }
