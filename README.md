@@ -1,8 +1,5 @@
-Perfect! Based on your assignment description, here’s a **well-structured README template** for your GitHub repo. You can copy, tweak, and fill in any specific details like your name, screenshots, or deployed URL.
 
----
-
-# Mini E-Commerce Website - SDE Developer Intern Assignment
+# Mini E-Commerce Website 
 
 ## Overview
 
@@ -127,6 +124,13 @@ yarn dev
 ---
 
 ## Screenshots
+<img width="1364" height="664" alt="image" src="https://github.com/user-attachments/assets/7cbf1b99-8f3e-4282-abd3-f942e1fa13ec" />
+<img width="1366" height="653" alt="image" src="https://github.com/user-attachments/assets/32977865-aa31-43e5-88b0-801b17f9c67b" />
+<img width="1365" height="657" alt="image" src="https://github.com/user-attachments/assets/831d1c76-cf59-4030-8b40-50e1281be14a" />
+<img width="1366" height="659" alt="image" src="https://github.com/user-attachments/assets/fcb3a2e1-c09d-4266-a298-ebcb78ad60b6" />
+<img width="1362" height="629" alt="image" src="https://github.com/user-attachments/assets/600f2764-e2ec-4f40-bd5c-bdebafa0cd4e" />
+<img width="1360" height="659" alt="image" src="https://github.com/user-attachments/assets/f13c248c-3bc4-4682-bdc0-81b4fc589a5f" />
+<img width="1359" height="475" alt="image" src="https://github.com/user-attachments/assets/27e31c43-aada-4124-937d-02e542ff2f44" />
 
 
 
